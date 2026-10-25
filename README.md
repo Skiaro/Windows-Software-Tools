@@ -37,7 +37,7 @@
 *   **Mocreak** | [项目地址](https://github.com/OdysseusYuan/Mocreak) | [官网](https://www.mocreak.com/)- 一键自动化下载、安装、部署正版 Office 的办公增强工具，完全免费、无广告。
 *   **Watt Toolkit** | [项目地址](https://github.com/BeyondDimension/SteamTools) | [官网](https://steampp.net/) - 原名 Steam++，开源跨平台的多功能游戏工具箱与网络加速工具，支持 Steam 社区访问及 GitHub 加速。
 *   **tchMaterial-parser** | [项目地址](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台电子课本下载工具，帮助获取电子课本 PDF 并下载。
-*   **Microsoft Activation Scripts (MAS)** | [项目地址](https://github.com/massgravel/Microsoft-Activation-Scripts)| [官网](https://massgrave.dev/) - 开源 Windows / Office 激活脚本，集成 HWID、Ohook、TSforge、KMS38 及在线 KMS 等多种激活方式。
+*   **Microsoft Activation Scripts (MAS)** | [项目地址](https://github.com/massgravel/Microsoft-Activation-Scripts) | [官网](https://massgrave.dev/) - 开源 Windows / Office 激活脚本，集成 HWID、Ohook、TSforge、KMS38 及在线 KMS 等多种激活方式。
 *   **Dism-Multi-language** | [项目地址](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ 的多语言支持与 BUG 反馈仓库，Dism++ 是 Windows 系统精简、优化与映像管理工具。
 
 ### 文件处理
