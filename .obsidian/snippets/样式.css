@@ -1,0 +1,9 @@
+.inline-title {
+    align-self:center;
+    width: fit-content;
+}
+
+.mod-header.mod-ui {
+    display: flex;
+    flex-direction:column;
+}

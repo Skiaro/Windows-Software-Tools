@@ -1,0 +1,21 @@
+{
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "./附件",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "vimMode": false,
+  "focusNewTab": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

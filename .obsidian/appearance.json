@@ -1,0 +1,16 @@
+{
+  "accentColor": "#6946b9",
+  "theme": "system",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Consolas",
+  "translucency": false,
+  "nativeMenus": true,
+  "cssTheme": "",
+  "textFontFamily": "",
+  "showViewHeader": true,
+  "baseFontSize": 16,
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "样式"
+  ]
+}
